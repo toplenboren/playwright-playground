@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('test', async ({ page }) => {
+test('website opens', async ({ page }) => {
     await page.goto('https://condo.d.doma.ai/');
     await page.goto('https://condo.d.doma.ai/auth/signin?next=%2F');
     await page.getByPlaceholder('+1 (300) 300 22').click();

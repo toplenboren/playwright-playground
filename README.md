@@ -58,10 +58,16 @@ You basically want to learn to do three things:
 
 ## Running tests
 
-> Re: https://playwright.dev/docs/writing-tests
+> Re: https://playwright.dev/docs/running-tests
 
 1. Just use this command: 
 
    `yarn playwright test`
 
    ![Screenshot 2023-12-04 at 16.32.25.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fmw%2F4z4klg0n2y1gm_vp_mkpzc2r0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_c4mtnc%2FScreenshot%202023-12-04%20at%2016.32.25.png)
+
+## Writing tests --> Further topics
+
+> Re: https://playwright.dev/docs/writing-tests
+
+### How to authenticate?
